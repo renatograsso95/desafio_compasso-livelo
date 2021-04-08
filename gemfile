@@ -1,8 +1,10 @@
 source "https://rubygems.org" do
-  gem "capybara"
-  gem "cucumber"
-  gem "rspec"
-  gem "site_prism"
-  gem "pg"
-  gem "selenium-webdriver"
+  gem 'capybara'
+gem 'chromedriver-helper'
+gem 'cucumber'
+gem 'pry'
+gem 'report_builder'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism'
 end
