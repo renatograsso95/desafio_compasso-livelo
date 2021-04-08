@@ -23,7 +23,6 @@ commands:
           paths:
             - vendor/bundle
 
-
 workflows:
   cucumber:
     jobs:
