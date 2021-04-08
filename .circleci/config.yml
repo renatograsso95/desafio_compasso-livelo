@@ -40,11 +40,11 @@ jobs:
           BUNDLE_PATH: vendor/bundle
           CUCUMBER_HEADLESS: true
           RAILS_ENV: test
-          DATABASE_URL: postgresql://postgres:@localhost/livelo_automation
+          DATABASE_URL: postgresql://postgres:@localhost/desafio_compasso-livelo
       - image: circleci/postgres:9.5-alpine
         environment:
           POSTGRES_USER: postgres
-          POSTGRES_DB: livelo_automation
+          POSTGRES_DB: desafio_compasso-livelo
           POSTGRES_PASSWORD: ""
       
     steps:
