@@ -27,7 +27,7 @@ commands:
 workflows:
   cucumber:
     jobs:
-      - cucumber
+      - Automacao Desafio Compasso - Livelo
 
 jobs:
   cucumber:
