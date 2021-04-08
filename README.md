@@ -25,10 +25,8 @@
  - <b>features</b>: Localização dos dados de testes..</br>
  - <b>features/spec</b>: Estão localizado os arquivos .features escrito com Gherkin..</br>
  - <b>features/step_definitions</b>: Implementação do passo a passo da automação.</br>
- - <b>features/support/web/page</b>: Onde estão localizado todas pages do projeto onde foram desenhados com o design pattern: Page Objects.</br>
+ - <b>features/support/web/page</b>: Onde estão localizado todas pages do projeto onde foram desenhados com Page Objects.</br>
  - <b>screenshots</b>: Localização dasscreenshot que é tirada após o item escolhido estar no carrinho de compras no website Livelo.</p></br>
-</br>
-
 <p> 
 	🚀 Made By Renato Grasso
 </p>
